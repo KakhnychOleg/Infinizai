@@ -1,0 +1,2 @@
+# Infinizai
+Gaming Landing Page
