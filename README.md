@@ -1,2 +1,2 @@
-# Infinizai
-Gaming Landing Page
+# Qubit
+Shop Landing Page
