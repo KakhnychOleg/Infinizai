@@ -1,0 +1,27 @@
+// Breakpoint & Container
+$containerWidth: 1080 + px;
+$breakpoint1200: 1199.98 + px;
+$breakpoint930: 929.98 + px;
+$breakpoint768: 767.98 + px;
+$breakpoint480: 479.98 + px;
+
+// Colors
+$containerColor: #E5E5E5;
+$primery: #fff;
+$secondary: #fff;
+
+// Mixin
+@mixin hoverLinks {
+   &:hover {
+      color: #6F2CFF;
+      transition: ease-out .5s;
+   }
+}
+
+@mixin hoverButton {
+   &:hover {
+      background: #4e1fb4;
+      transition: ease-out .5s;
+   }
+}
+
