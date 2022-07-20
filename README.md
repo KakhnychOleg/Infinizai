@@ -1,2 +1,1 @@
 # Qubit
-Shop Landing Page
